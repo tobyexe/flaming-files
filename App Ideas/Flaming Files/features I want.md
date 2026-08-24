@@ -1,3 +1,0 @@
-- opens the pined folder on start up 
-- all videos show there first frame as the thumnail
-- 
